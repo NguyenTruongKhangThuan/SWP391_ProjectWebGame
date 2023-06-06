@@ -9,7 +9,7 @@ import LandingPageFAQs from "./pages/LandingPageFAQs";
 import LandingPageFeatures from "./pages/LandingPageFeatures";
 import LandingPageRoles from "./pages/LandingPageRoles";
 import { useEffect } from "react";
-
+//demo
 function App() {
   const action = useNavigationType();
   const location = useLocation();
